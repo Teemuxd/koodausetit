@@ -1,2 +1,3 @@
 Tämä on testitiedosto.
-Uusi r
+Uusi 
+Taas uusi rivi
